@@ -48,6 +48,7 @@ int main(){
        
     }while(op != 0);
 
+    //limpa o console
     system("clear");
 
     return 0;
